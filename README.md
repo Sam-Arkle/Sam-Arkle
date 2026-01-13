@@ -53,11 +53,11 @@ A constructive formalization of abstract reduction systems and term rewrite theo
 
 A personal research project exploring whether pre-match fan sentiment provides predictive signal for football (soccer) match outcomes. The goal was to deepen my understanding of end-to-end machine learning workflows, from data acquisition and preprocessing through modeling and evaluation.
 
--Scraped pre-match fan discussions from online football forums using Python-based web scraping tools
--Collected and aligned historical match data with corresponding pre-match discussion windows
--Applied sentiment analysis techniques to unstructured fan comments, aggregating sentiment signals at the team and match level
--Built and evaluated supervised learning models to predict match outcomes using sentiment-derived features
--Analyzed the limits of sentiment-based prediction and sources of noise in fan-generated data
+- Scraped pre-match fan discussions from online football forums using Python-based web scraping tools
+- Collected and aligned historical match data with corresponding pre-match discussion windows
+- Applied sentiment analysis techniques to unstructured fan comments, aggregating sentiment signals at the team and match level
+- Built and evaluated supervised learning models to predict match outcomes using sentiment-derived features
+- Analyzed the limits of sentiment-based prediction and sources of noise in fan-generated data
 
 This project emphasizes feature engineering from noisy real-world text, careful dataset construction, and empirical evaluation rather than assuming sentiment is a strong standalone predictor.
 
