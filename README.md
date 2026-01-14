@@ -116,6 +116,16 @@ I’m keen to continue in **research engineering / applied research roles**, esp
 
 ---
 
+## 🎓 Teaching & Coursework
+
+I have completed graduate-level coursework across programming languages,
+formal methods, algorithms, systems, and machine learning.
+
+📄 A redacted academic transcript (for TA review) is available here:  
+https://github.com/sam-arkle/teaching-credentials
+
+---
+
 ## 📫 Get in Touch
 - 📧 **Email:** sdharkle@gmail.com  
 
